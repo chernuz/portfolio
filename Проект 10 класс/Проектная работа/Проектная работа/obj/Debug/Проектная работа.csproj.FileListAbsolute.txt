@@ -1,0 +1,25 @@
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csprojAssemblyReference.cache
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Properties.Resources.resources
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.GenerateResource.cache
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.CoreCompileInputs.cache
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.exe.config
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.exe
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.pdb
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.exe
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.pdb
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Form2.resources
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Проект.resources
+D:\BOSS\Desktop\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Form3.resources
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.exe
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\bin\Debug\Проектная работа.pdb
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Проект.resources
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Form2.resources
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Form3.resources
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная_работа.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.exe
+C:\Users\artem\OneDrive\Рабочий стол\export from old pc (1)\Проект\Проектная работа\Проектная работа\obj\Debug\Проектная работа.pdb
