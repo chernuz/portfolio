@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_element"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_dynamic_primary90"
+    tools:context=".ChangeActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/merriweather"
+            android:text="Редактирование"
+            android:textAlignment="center"
+            android:textColor="#080301"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="130dp">
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:fontFamily="@font/merriweather"
+                android:text="Введите данные:"
+                android:textColor="#040303"
+                android:textSize="20sp">
+
+            </TextView>
+
+            <EditText
+                android:id="@+id/namenew_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+
+                android:hint="Имя"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/longtitude_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+                android:hint="Долгота"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/latitude_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+                android:hint="Широта"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/worktime_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+
+                android:hint="График"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/date_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+
+                android:hint="Дата постройки"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/description_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:fontFamily="@font/merriweather"
+
+                android:hint="Описание"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"
+                android:textColorHint="#4a4745"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/buttonGoOn"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginLeft="130dp"
+                android:background="#73C1FF"
+                android:fontFamily="@font/merriweather"
+
+                android:onClick="onGoOnClick"
+                android:text="Далее"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/buttonDeleteOn"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginLeft="130dp"
+                android:background="#FF0000"
+                android:fontFamily="@font/merriweather"
+
+                android:onClick="onDeleteOnClick"
+                android:text="Удалить"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>
