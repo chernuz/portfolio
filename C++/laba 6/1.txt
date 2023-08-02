@@ -1,0 +1,6 @@
+Bagyan 5 4 5
+Tahirov 4 4 4
+Ivanov 5 5 5
+Frelix 3 4 4
+Chernavkin 4 4 5
+Abragimov 5 4 4
